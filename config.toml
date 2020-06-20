@@ -1,5 +1,6 @@
 # Settings
-baseurl = "http://example.org/"
+baseurl = "https://DoubleMistence.github.io/portfolio3/"
+publishDir="docs"
 languageCode = "en-us"
 title = "AutoPhugo"
 theme = "autophugo"
