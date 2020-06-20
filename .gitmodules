@@ -1,0 +1,3 @@
+[submodule "themes/anake"]
+	path = themes/anake
+	url = https://github.com/kc0bfv/autophugo.git
